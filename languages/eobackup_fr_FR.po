@@ -1,0 +1,1102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eo-bakcup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-02 14:28+0100\n"
+"PO-Revision-Date: 2012-02-02 14:28+0100\n"
+"Last-Translator: Equipe de développement <dev@eoxia.com>\n"
+"Language-Team: Dévelloppement Eoxia <dev@eoxia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: ../include\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../include/ajax.php:72
+#: ../include/librairies/options.class.php:178
+msgid "T&eacute;l&eacute;charger le fichier de sauvegarde"
+msgstr "T&eacute;l&eacute;charger le fichier de sauvegarde"
+
+#: ../include/ajax.php:101
+#: ../include/librairies/options.class.php:181
+msgid "T&eacute;l&eacute;charger le fichier de nettoyage"
+msgstr "T&eacute;l&eacute;charger le fichier de nettoyage"
+
+#: ../include/ajax.php:107
+msgid "Des param&egrave;tres sont manquants pour la g&eacute;n&eacute;ration du fichier de sauvegarde"
+msgstr "Des param&egrave;tres sont manquants pour la g&eacute;n&eacute;ration du fichier de sauvegarde"
+
+#: ../include/ajax.php:132
+#, php-format
+msgid "%s D&eacute;but de la restauration de la sauvegarde du domaine %s effectu&eacute;e le %s"
+msgstr "%s D&eacute;but de la restauration de la sauvegarde du domaine %s effectu&eacute;e le %s"
+
+#: ../include/ajax.php:137
+#, php-format
+msgid "%s D&eacute;but du nettoyage du domaine de restauration"
+msgstr "%s D&eacute;but du nettoyage du domaine de restauration"
+
+#: ../include/ajax.php:141
+#, php-format
+msgid "Commande de suppression des fichiers %s"
+msgstr "Commande de suppression des fichiers %s"
+
+#: ../include/ajax.php:149
+#, php-format
+msgid "%s Fin du nettoyage du domaine de restauration"
+msgstr "%s Fin du nettoyage du domaine de restauration"
+
+#: ../include/ajax.php:156
+#, php-format
+msgid "%s D&eacute;but de la restauration des fichiers"
+msgstr "%s D&eacute;but de la restauration des fichiers"
+
+#: ../include/ajax.php:157
+#: ../include/ajax.php:215
+#, php-format
+msgid "Commande de restauration %s"
+msgstr "Commande de restauration %s"
+
+#: ../include/ajax.php:164
+#, php-format
+msgid "%s Fin de la restauration des fichiers"
+msgstr "%s Fin de la restauration des fichiers"
+
+#: ../include/ajax.php:169
+#, php-format
+msgid "%s D&eacute;but mise en forme fichier dump (suppression nom de la base de d&eacute;part)"
+msgstr "%s D&eacute;but mise en forme fichier dump (suppression nom de la base de d&eacute;part)"
+
+#: ../include/ajax.php:208
+#, php-format
+msgid "%s Fin mise en forme fichier dump (suppression nom de la base de d&eacute;part)"
+msgstr "%s Fin mise en forme fichier dump (suppression nom de la base de d&eacute;part)"
+
+#: ../include/ajax.php:214
+#, php-format
+msgid "%s D&eacute;but de la restauration de la base de donn&eacutes"
+msgstr "%s D&eacute;but de la restauration de la base de donn&eacutes"
+
+#: ../include/ajax.php:222
+#, php-format
+msgid "%s Fin de la restauration de la base de donn&eacutes"
+msgstr "%s Fin de la restauration de la base de donn&eacutes"
+
+#: ../include/ajax.php:233
+#, php-format
+msgid "%s D&eacute;but du changement des urls dans la table options"
+msgstr "%s D&eacute;but du changement des urls dans la table options"
+
+#: ../include/ajax.php:239
+#, php-format
+msgid "%s Fin du changement des urls dans la table options"
+msgstr "%s Fin du changement des urls dans la table options"
+
+#: ../include/ajax.php:245
+#: ../include/ajax.php:308
+#, php-format
+msgid "%s Sauvegarde du fichier de configuration original"
+msgstr "%s Sauvegarde du fichier de configuration original"
+
+#: ../include/ajax.php:255
+#: ../include/ajax.php:318
+#, php-format
+msgid "%s D&eacute;but de la r&eacute;&eacute;criture du fichier de configuration pour le domaine de restauration"
+msgstr "%s D&eacute;but de la r&eacute;&eacute;criture du fichier de configuration pour le domaine de restauration"
+
+#: ../include/ajax.php:280
+#: ../include/ajax.php:343
+#, php-format
+msgid "%s Fin de la r&eacute;&eacute;criture du fichier de configuration pour le domaine de restauration"
+msgstr "%s Fin de la r&eacute;&eacute;criture du fichier de configuration pour le domaine de restauration"
+
+#: ../include/ajax.php:283
+#: ../include/ajax.php:346
+msgid "Fin de la restauration"
+msgstr "Fin de la restauration"
+
+#: ../include/ajax.php:287
+#: ../include/ajax.php:350
+#, php-format
+msgid "%s Erreur lors de la restauration - Fichier de configuration original introuvable"
+msgstr "%s Erreur lors de la restauration - Fichier de configuration original introuvable"
+
+#: ../include/ajax.php:288
+#: ../include/ajax.php:351
+msgid "Le fichier original de configuration est introuvable"
+msgstr "Le fichier original de configuration est introuvable"
+
+#: ../include/ajax.php:295
+#, php-format
+msgid "%s D&eacute;but du changement des urls dans la table configurations"
+msgstr "%s D&eacute;but du changement des urls dans la table configurations"
+
+#: ../include/ajax.php:301
+#, php-format
+msgid "%s Fin du changement des urls dans la table configurations"
+msgstr "%s Fin du changement des urls dans la table configurations"
+
+#: ../include/ajax.php:357
+#, php-format
+msgid "%s Erreur lors de la restauration - Fichier de configuration introuvable"
+msgstr "%s Erreur lors de la restauration - Fichier de configuration introuvable"
+
+#: ../include/ajax.php:358
+msgid "Le fichier de configuration est introuvable"
+msgstr "Le fichier de configuration est introuvable"
+
+#: ../include/ajax.php:363
+#, php-format
+msgid "%s Fin de la restauration"
+msgstr "%s Fin de la restauration"
+
+#: ../include/ajax.php:370
+#: ../include/librairies/backup.class.php:328
+#, php-format
+msgid "Sauvegarde serveur : Certaines configurations sont manquantes pour effectuer les restaurations. %s"
+msgstr "Sauvegarde serveur : Certaines configurations sont manquantes pour effectuer les restaurations. %s"
+
+#: ../include/ajax.php:370
+#: ../include/librairies/backup.class.php:328
+msgid "configurer ces variables (Section restauration)"
+msgstr "configurer ces variables (Section restauration)"
+
+#: ../include/ajax.php:373
+msgid "Voir le site restaur&eacute;"
+msgstr "Voir le site restaur&eacute;"
+
+#: ../include/ajax.php:373
+#: ../include/librairies/backup.class.php:324
+msgid "Restaurer cette sauvegarde"
+msgstr "Restaurer cette sauvegarde"
+
+#: ../include/ajax.php:383
+#: ../include/librairies/backup.class.php:393
+msgid "Si vous restaurer cette sauvegarde, les informations pr&eacute;sentes sur le domaine de restauration seront supprim&eacute;es"
+msgstr "Si vous restaurer cette sauvegarde, les informations pr&eacute;sentes sur le domaine de restauration seront supprim&eacute;es"
+
+#: ../include/config.php:81
+msgid "Dump mysql"
+msgstr "Dump mysql"
+
+#: ../include/config.php:82
+msgid "Simple"
+msgstr "Simple"
+
+#: ../include/config.php:83
+msgid "Lundi"
+msgstr "Lundi"
+
+#: ../include/config.php:83
+msgid "Mardi"
+msgstr "Mardi"
+
+#: ../include/config.php:83
+msgid "Mercredi"
+msgstr "Mercredi"
+
+#: ../include/config.php:83
+msgid "Jeudi"
+msgstr "Jeudi"
+
+#: ../include/config.php:83
+msgid "Vendredi"
+msgstr "Vendredi"
+
+#: ../include/config.php:83
+msgid "Samedi"
+msgstr "Samedi"
+
+#: ../include/config.php:83
+msgid "Dimanche"
+msgstr "Dimanche"
+
+#: ../include/config.php:91
+msgid "Oui"
+msgstr "Oui"
+
+#: ../include/config.php:91
+msgid "Non"
+msgstr "Non"
+
+#: ../include/librairies/backup.class.php:84
+msgid "Sauvegardes ant&eacute;rieures"
+msgstr "Sauvegardes ant&eacute;rieures"
+
+#: ../include/librairies/backup.class.php:87
+#: ../include/librairies/backup.class.php:226
+msgid "Date"
+msgstr "Date"
+
+#: ../include/librairies/backup.class.php:88
+msgid "Informations sur la sauvegard&eacute;"
+msgstr "Informations sur la sauvegard&eacute;"
+
+#: ../include/librairies/backup.class.php:101
+#: ../include/librairies/backup.class.php:109
+#: ../include/librairies/backup.class.php:265
+msgid "D&eacute;but"
+msgstr "D&eacute;but"
+
+#: ../include/librairies/backup.class.php:101
+#: ../include/librairies/backup.class.php:109
+msgid "\\L\\e d F Y \\&\\a\\g\\r\\a\\v\\e\\; H:i:s"
+msgstr "\\L\\e d F Y \\&\\a\\g\\r\\a\\v\\e\\; H:i:s"
+
+#: ../include/librairies/backup.class.php:101
+#: ../include/librairies/backup.class.php:109
+#: ../include/librairies/backup.class.php:265
+msgid "Fin"
+msgstr "Fin"
+
+#: ../include/librairies/backup.class.php:108
+msgid "Voir les d&eacute;tails de la sauvegarde"
+msgstr "Voir les d&eacute;tails de la sauvegarde"
+
+#: ../include/librairies/backup.class.php:116
+#: ../include/librairies/backup.class.php:344
+msgid "Voir les logs"
+msgstr "Voir les logs"
+
+#: ../include/librairies/backup.class.php:172
+msgid "Il n'y a aucune sauvegarde pour le moment"
+msgstr "Il n'y a aucune sauvegarde pour le moment"
+
+#: ../include/librairies/backup.class.php:218
+msgid "Liste des sauvegardes pour le domaine en cours d'&eacute;dition"
+msgstr "Liste des sauvegardes pour le domaine en cours d'&eacute;dition"
+
+#: ../include/librairies/backup.class.php:223
+#: ../include/librairies/domain.class.php:218
+#: ../include/librairies/domain.class.php:474
+msgid "Domaine"
+msgstr "Domaine"
+
+#: ../include/librairies/backup.class.php:228
+msgid "Utilisateur"
+msgstr "Utilisateur"
+
+#: ../include/librairies/backup.class.php:229
+msgid "Logs"
+msgstr "Logs"
+
+#: ../include/librairies/backup.class.php:232
+#: ../include/librairies/backup.class.php:306
+msgid "Fichiers"
+msgstr "Fichiers"
+
+#: ../include/librairies/backup.class.php:233
+#: ../include/librairies/backup.class.php:311
+msgid "Base de donn&eacute;es"
+msgstr "Base de donn&eacute;es"
+
+#: ../include/librairies/backup.class.php:234
+msgid "Informations"
+msgstr "Informations"
+
+#: ../include/librairies/backup.class.php:238
+msgid "Actions"
+msgstr "Actions"
+
+#: ../include/librairies/backup.class.php:275
+msgid "Cette sauvegarde a &eacute;t&eacute; supprim&eacute;e selon les r&eacute;glages de rotation des sauvegardes"
+msgstr "Cette sauvegarde a &eacute;t&eacute; supprim&eacute;e selon les r&eacute;glages de rotation des sauvegardes"
+
+#: ../include/librairies/backup.class.php:299
+msgid "Tailles des diff&eacute;rents dossiers"
+msgstr "Tailles des diff&eacute;rents dossiers"
+
+#: ../include/librairies/backup.class.php:302
+msgid "Original"
+msgstr "Original"
+
+#: ../include/librairies/backup.class.php:303
+msgid "Sauvegarde"
+msgstr "Sauvegarde"
+
+#: ../include/librairies/backup.class.php:321
+msgid "La restauration pour ce type de site est indisponible pour le moment"
+msgstr "La restauration pour ce type de site est indisponible pour le moment"
+
+#: ../include/librairies/backup.class.php:332
+msgid "Cette sauvegarde aurait du &ecirc;tre supprim&eacute;e selon les r&eacute;glages de rotation des sauvegardes mais le dossier est toujours pr&eacute;sent"
+msgstr "Cette sauvegarde aurait du &ecirc;tre supprim&eacute;e selon les r&eacute;glages de rotation des sauvegardes mais le dossier est toujours pr&eacute;sent"
+
+#: ../include/librairies/backup.class.php:336
+msgid "Le dossier n'existe plus sur le serveur"
+msgstr "Le dossier n'existe plus sur le serveur"
+
+#: ../include/librairies/backup.class.php:338
+msgid "Cette sauvegarde ne peut &ecirc;tre restaur&eacute;e"
+msgstr "Cette sauvegarde ne peut &ecirc;tre restaur&eacute;e"
+
+#: ../include/librairies/backup.class.php:345
+msgid "Charges du serveur lors de la sauvegarde"
+msgstr "Charges du serveur lors de la sauvegarde"
+
+#: ../include/librairies/backup.class.php:347
+msgid "Charges du serveur"
+msgstr "Charges du serveur"
+
+#: ../include/librairies/backup.class.php:351
+msgid "1 minutes"
+msgstr "1 minutes"
+
+#: ../include/librairies/backup.class.php:352
+msgid "5 minutes"
+msgstr "5 minutes"
+
+#: ../include/librairies/backup.class.php:353
+msgid "15 minutes"
+msgstr "15 minutes"
+
+#: ../include/librairies/backup.class.php:356
+msgid "Avant"
+msgstr "Avant"
+
+#: ../include/librairies/backup.class.php:362
+msgid "Apr&egrave;s"
+msgstr "Apr&egrave;s"
+
+#: ../include/librairies/backup.class.php:409
+#: ../include/librairies/init.class.php:145
+msgid "Logs de la sauvegarde"
+msgstr "Logs de la sauvegarde"
+
+#: ../include/librairies/backup.class.php:441
+msgid "Ce domaine ne poss&egrave;de pas de sauvegarde"
+msgstr "Ce domaine ne poss&egrave;de pas de sauvegarde"
+
+#: ../include/librairies/backup.class.php:444
+msgid "Ce domaine n'a jamais &eacute;t&eacute; restaur&eacute;"
+msgstr "Ce domaine n'a jamais &eacute;t&eacute; restaur&eacute;"
+
+#: ../include/librairies/backup.class.php:447
+msgid "Aucune sauvegarde de ce domaine n'a &eacute;t&eacute; supprim&eacute;e pour le moment"
+msgstr "Aucune sauvegarde de ce domaine n'a &eacute;t&eacute; supprim&eacute;e pour le moment"
+
+#: ../include/librairies/display.class.php:28
+msgid "Historique de sauvegarde(s) effectu&eacute;e(s)"
+msgstr "Historique de sauvegarde(s) effectu&eacute;e(s)"
+
+#: ../include/librairies/display.class.php:41
+#: ../include/librairies/domain.class.php:472
+msgid "Liste des domaines &agrave; sauvegarder aujourd'hui"
+msgstr "Liste des domaines &agrave; sauvegarder aujourd'hui"
+
+#: ../include/librairies/display.class.php:44
+msgid "Sauvegarde(s) effectu&eacute;e(s) aujourd'hui"
+msgstr "Sauvegarde(s) effectu&eacute;e(s) aujourd'hui"
+
+#: ../include/librairies/display.class.php:47
+msgid "R&eacute;sum&eacute; des sauvegardes"
+msgstr "R&eacute;sum&eacute; des sauvegardes"
+
+#: ../include/librairies/display.class.php:58
+#: ../include/librairies/options.class.php:128
+#, php-format
+msgid "Sauvegarde serveur : Certaines configurations sont manquantes. Vous ne pourrez pas utiliser le plugin tant que vous n'aurez pas %s"
+msgstr "Sauvegarde serveur : Certaines configurations sont manquantes. Vous ne pourrez pas utiliser le plugin tant que vous n'aurez pas %s"
+
+#: ../include/librairies/display.class.php:58
+#: ../include/librairies/options.class.php:128
+msgid "configur&eacute; ces variables"
+msgstr "configur&eacute; ces variables"
+
+#: ../include/librairies/display.class.php:201
+#: ../include/librairies/display.class.php:315
+msgid "Input type not allowed here in "
+msgstr "Input type not allowed here in "
+
+#: ../include/librairies/display.class.php:301
+msgid "_"
+msgstr "_"
+
+#: ../include/librairies/domain.class.php:54
+#, php-format
+msgid "La liste ci-dessous contient les domaines pr&eacute;sents sur le serveur %s mais qui n'ont pas encore &eacute;t&eacute; configur&eacute;s pour les sauvegardes"
+msgstr "La liste ci-dessous contient les domaines pr&eacute;sents sur le serveur %s mais qui n'ont pas encore &eacute;t&eacute; configur&eacute;s pour les sauvegardes"
+
+#: ../include/librairies/domain.class.php:60
+msgid "Liste des domaines qui sont mod&eacute;r&eacute;s"
+msgstr "Liste des domaines qui sont mod&eacute;r&eacute;s"
+
+#: ../include/librairies/domain.class.php:71
+#: ../include/librairies/domain.class.php:72
+#: ../include/templates/eobackup_launch.php:38
+#: ../include/templates/eobackup_launch.php:39
+#: ../include/templates/eobackup_launch.php:166
+#: ../include/templates/eobackup_launch.php:167
+#: ../include/templates/eobackup_log.php:36
+#: ../include/templates/eobackup_log.php:37
+#: ../include/templates/eobackup_log.php:132
+#: ../include/templates/eobackup_log.php:133
+msgid "Service de sauvegarde"
+msgstr "Service de sauvegarde"
+
+#: ../include/librairies/domain.class.php:71
+#: ../include/librairies/domain.class.php:72
+msgid "Domaine non configur&eacute;"
+msgstr "Domaine non configur&eacute;"
+
+#: ../include/librairies/domain.class.php:76
+#, php-format
+msgid "Des domaines pr&eacute;sents sur le serveur %s, n'ont pas &eacute;t&eacute; configur&eacute;s pour les sauvegardes"
+msgstr "Des domaines pr&eacute;sents sur le serveur %s, n'ont pas &eacute;t&eacute; configur&eacute;s pour les sauvegardes"
+
+#: ../include/librairies/domain.class.php:132
+#: ../include/librairies/init.class.php:87
+msgid "Historique des sauvegardes"
+msgstr "Historique des sauvegardes"
+
+#: ../include/librairies/domain.class.php:133
+msgid "Historique des restaurations"
+msgstr "Historique des restaurations"
+
+#: ../include/librairies/domain.class.php:137
+#, php-format
+msgid "&Eacute;dition du domaine \"%s\""
+msgstr "&Eacute;dition du domaine \"%s\""
+
+#: ../include/librairies/domain.class.php:141
+msgid "Configuration"
+msgstr "Configuration"
+
+#: ../include/librairies/domain.class.php:215
+msgid "Liste des domaines existants sur le serveur courant"
+msgstr "Liste des domaines existants sur le serveur courant"
+
+#: ../include/librairies/domain.class.php:217
+msgid "Cocher / d&eacute;cocher tout"
+msgstr "Cocher / d&eacute;cocher tout"
+
+#: ../include/librairies/domain.class.php:219
+#: ../include/librairies/domain.class.php:354
+msgid "Planification"
+msgstr "Planification"
+
+#: ../include/librairies/domain.class.php:220
+msgid "Remarques sur le domaine"
+msgstr "Remarques sur le domaine"
+
+#: ../include/librairies/domain.class.php:257
+msgid "Ce site est propuls&eacute; par magento"
+msgstr "Ce site est propuls&eacute; par magento"
+
+#: ../include/librairies/domain.class.php:264
+msgid "Ce site est propuls&eacute; par wordpress"
+msgstr "Ce site est propuls&eacute; par wordpress"
+
+#: ../include/librairies/domain.class.php:272
+msgid "Ce domaine est exclus de la sauvegarde par la configuration g&eacute;n&eacute;rale du plugin"
+msgstr "Ce domaine est exclus de la sauvegarde par la configuration g&eacute;n&eacute;rale du plugin"
+
+#: ../include/librairies/domain.class.php:286
+msgid "backup_interval_simple_type_"
+msgstr "backup_interval_simple_type_"
+
+#: ../include/librairies/domain.class.php:289
+#, php-format
+msgid "Tous les %s %s"
+msgstr "Tous les %s %s"
+
+#: ../include/librairies/domain.class.php:292
+#, php-format
+msgid "&Agrave; partir du %s"
+msgstr "&Agrave; partir du %s"
+
+#: ../include/librairies/domain.class.php:295
+msgid "Domaine en attente de configuration"
+msgstr "Domaine en attente de configuration"
+
+#: ../include/librairies/domain.class.php:299
+msgid "Ce domain est exclus des sauvegardes"
+msgstr "Ce domain est exclus des sauvegardes"
+
+#: ../include/librairies/domain.class.php:302
+msgid "Ce domain est mod&eacute;r&eacute;"
+msgstr "Ce domain est mod&eacute;r&eacute;"
+
+#: ../include/librairies/domain.class.php:316
+msgid "Liste des domaines pr&eacute;sents sur le serveur"
+msgstr "Liste des domaines pr&eacute;sents sur le serveur"
+
+#: ../include/librairies/domain.class.php:320
+msgid "Pour la s&eacute;lection"
+msgstr "Pour la s&eacute;lection"
+
+#: ../include/librairies/domain.class.php:320
+msgid "S&eacute;lectionner l'action &agrave; effectuer"
+msgstr "S&eacute;lectionner l'action &agrave; effectuer"
+
+#: ../include/librairies/domain.class.php:320
+msgid "Configurer"
+msgstr "Configurer"
+
+#: ../include/librairies/domain.class.php:320
+msgid "D&eacute;sactiver la sauvegarde"
+msgstr "D&eacute;sactiver la sauvegarde"
+
+#: ../include/librairies/domain.class.php:320
+msgid "Exclure de la sauvegarde"
+msgstr "Exclure de la sauvegarde"
+
+#: ../include/librairies/domain.class.php:320
+msgid "Activer la sauvegarde"
+msgstr "Activer la sauvegarde"
+
+#: ../include/librairies/domain.class.php:324
+#: ../include/librairies/domain.class.php:390
+msgid "Type de sauvegarde de la base de donn&eacute;es"
+msgstr "Type de sauvegarde de la base de donn&eacute;es"
+
+#: ../include/librairies/domain.class.php:330
+msgid "Enregistrer"
+msgstr "Enregistrer"
+
+#: ../include/librairies/domain.class.php:361
+msgid "Tous les"
+msgstr "Tous les"
+
+#: ../include/librairies/domain.class.php:361
+msgid "jour(s)"
+msgstr "jour(s)"
+
+#: ../include/librairies/domain.class.php:361
+msgid "semaine(s)"
+msgstr "semaine(s)"
+
+#: ../include/librairies/domain.class.php:361
+msgid "mois"
+msgstr "mois"
+
+#: ../include/librairies/domain.class.php:361
+msgid "ann&eacute;e(s)"
+msgstr "ann&eacute;e(s)"
+
+#: ../include/librairies/domain.class.php:364
+msgid "&Agrave; partir du"
+msgstr "&Agrave; partir du"
+
+#: ../include/librairies/domain.class.php:367
+msgid "Nombre de sauvegarde &agrave; conserver"
+msgstr "Nombre de sauvegarde &agrave; conserver"
+
+#: ../include/librairies/domain.class.php:368
+msgid "0 pour conserver toutes les sauvegardes"
+msgstr "0 pour conserver toutes les sauvegardes"
+
+#: ../include/librairies/domain.class.php:386
+msgid "Identifiant du domaine sur le serveur"
+msgstr "Identifiant du domaine sur le serveur"
+
+#: ../include/librairies/domain.class.php:395
+msgid "Sauvegarder la configuration du domaine"
+msgstr "Sauvegarder la configuration du domaine"
+
+#: ../include/librairies/domain.class.php:475
+msgid "Remarque."
+msgstr "Remarque."
+
+#: ../include/librairies/domain.class.php:492
+#, php-format
+msgid "Derni&egrave;re sauvegarde le %s. <a href=\"%s\" >Voir le d&eacute;tail</a>"
+msgstr "Derni&egrave;re sauvegarde le %s. <a href=\"%s\" >Voir le d&eacute;tail</a>"
+
+#: ../include/librairies/domain.class.php:507
+#, php-format
+msgid "Sauvegarde effectu&eacute;e. <a href=\"%s\" >Voir le d&eacute;tail</a>"
+msgstr "Sauvegarde effectu&eacute;e. <a href=\"%s\" >Voir le d&eacute;tail</a>"
+
+#: ../include/librairies/domain.class.php:518
+msgid "Il n'y a aucun domaine &agrave; sauvegarder aujourd'hui"
+msgstr "Il n'y a aucun domaine &agrave; sauvegarder aujourd'hui"
+
+#: ../include/librairies/domain.class.php:590
+msgid "La configuration du domaine a &eacute;t&eacute; enregistr&eacute;e avec succ&eacute;s"
+msgstr "La configuration du domaine a &eacute;t&eacute; enregistr&eacute;e avec succ&eacute;s"
+
+#: ../include/librairies/domain.class.php:593
+msgid "Une erreur est survenue lors de l'enregistrement de la configuration du domaine"
+msgstr "Une erreur est survenue lors de l'enregistrement de la configuration du domaine"
+
+#: ../include/librairies/domain.class.php:636
+msgid "Vous n'avez s&eacute;lectionnez aucune action pour les domaines s&eacute;lectionn&eacute;s"
+msgstr "Vous n'avez s&eacute;lectionnez aucune action pour les domaines s&eacute;lectionn&eacute;s"
+
+#: ../include/librairies/domain.class.php:643
+msgid "Les sauvegardes des domaines s&eacute;lectionn&eacute; ont bien &eacute;t&eacute; mis &agrave; jour"
+msgstr "Les sauvegardes des domaines s&eacute;lectionn&eacute; ont bien &eacute;t&eacute; mis &agrave; jour"
+
+#: ../include/librairies/domain.class.php:646
+msgid "Des erreurs sont survenues lors de la mise &agrave; jour des sauvegardes des domaines s&eacute;lectionn&eacute;s"
+msgstr "Des erreurs sont survenues lors de la mise &agrave; jour des sauvegardes des domaines s&eacute;lectionn&eacute;s"
+
+#: ../include/librairies/domain.class.php:650
+#: ../include/librairies/domain.class.php:655
+msgid "Vous n'avez s&eacute;lectionnez aucun domaine &agrave; mettre &agrave; jour"
+msgstr "Vous n'avez s&eacute;lectionnez aucun domaine &agrave; mettre &agrave; jour"
+
+#: ../include/librairies/init.class.php:76
+#: ../include/librairies/init.class.php:78
+#: ../include/librairies/init.class.php:83
+#: ../include/librairies/init.class.php:85
+#: ../include/librairies/init.class.php:86
+#: ../include/librairies/init.class.php:87
+#: ../include/librairies/init.class.php:89
+msgid "Sauvegarde serveur : "
+msgstr "Sauvegarde serveur : "
+
+#: ../include/librairies/init.class.php:76
+#: ../include/librairies/init.class.php:83
+msgid "Accueil"
+msgstr "Accueil"
+
+#: ../include/librairies/init.class.php:76
+#: ../include/librairies/init.class.php:78
+#: ../include/librairies/init.class.php:83
+#: ../include/librairies/init.class.php:89
+msgid "Sauvegarde serveur"
+msgstr "Sauvegarde serveur"
+
+#: ../include/librairies/init.class.php:78
+#: ../include/librairies/init.class.php:89
+msgid "Options"
+msgstr "Options"
+
+#: ../include/librairies/init.class.php:85
+msgid "R&eacute;sum&eacute;"
+msgstr "R&eacute;sum&eacute;"
+
+#: ../include/librairies/init.class.php:86
+msgid "Gestion des domaine"
+msgstr "Gestion des domaine"
+
+#: ../include/librairies/init.class.php:86
+msgid "Domaines"
+msgstr "Domaines"
+
+#: ../include/librairies/init.class.php:87
+msgid "Historique"
+msgstr "Historique"
+
+#: ../include/librairies/init.class.php:139
+#: ../include/librairies/options.class.php:325
+msgid "Ne plus exclure ce domaine"
+msgstr "Ne plus exclure ce domaine"
+
+#: ../include/librairies/init.class.php:140
+msgid "Vous n'avez pas donn&eacute; de nom de domaine &agrave; exclure"
+msgstr "Vous n'avez pas donn&eacute; de nom de domaine &agrave; exclure"
+
+#: ../include/librairies/init.class.php:141
+msgid "Ne plus envoyer de rapport &agrave; cet email"
+msgstr "Ne plus envoyer de rapport &agrave; cet email"
+
+#: ../include/librairies/init.class.php:142
+msgid "Vous n'avez pas rempli le champs email"
+msgstr "Vous n'avez pas rempli le champs email"
+
+#: ../include/librairies/init.class.php:143
+msgid "Vous n'avez pas rempli le champs adresse"
+msgstr "Vous n'avez pas rempli le champs adresse"
+
+#: ../include/librairies/init.class.php:144
+msgid "&Ecirc;tes vous s&ucirc;r de vouloir d&eacute;sactiver les sauvegardes des domaines s&eacute;lectionn&eacute;s?"
+msgstr "&Ecirc;tes vous s&ucirc;r de vouloir d&eacute;sactiver les sauvegardes des domaines s&eacute;lectionn&eacute;s?"
+
+#: ../include/librairies/init.class.php:171
+#, php-format
+msgid "Une diff&eacute;rence entre les diff&eacute;rentes dates du serveur a &eacute;t&eacute; d&eacute;tect&eacute;e<br/>Date php : %s<br/>Date mysql : %s<br/>Date serveur : %s"
+msgstr "Une diff&eacute;rence entre les diff&eacute;rentes dates du serveur a &eacute;t&eacute; d&eacute;tect&eacute;e<br/>Date php : %s<br/>Date mysql : %s<br/>Date serveur : %s"
+
+#: ../include/librairies/options.class.php:30
+msgid "Informations de bases (Obligatoires)"
+msgstr "Informations de bases (Obligatoires)"
+
+#: ../include/librairies/options.class.php:32
+msgid "Nom du serveur"
+msgstr "Nom du serveur"
+
+#: ../include/librairies/options.class.php:34
+msgid "Informations pour les sauvegardes (Obligatoires)"
+msgstr "Informations pour les sauvegardes (Obligatoires)"
+
+#: ../include/librairies/options.class.php:36
+msgid "Dossier contenant les scripts sh (Sauvegarde et Nettoyage)"
+msgstr "Dossier contenant les scripts sh (Sauvegarde et Nettoyage)"
+
+#: ../include/librairies/options.class.php:37
+msgid "Dossier contenant les scripts php de lancement"
+msgstr "Dossier contenant les scripts php de lancement"
+
+#: ../include/librairies/options.class.php:38
+msgid "Dossier de destination des sauvegardes"
+msgstr "Dossier de destination des sauvegardes"
+
+#: ../include/librairies/options.class.php:39
+msgid "Temporisation en secondes entre les domaines (par d&eacute;faut)"
+msgstr "Temporisation en secondes entre les domaines (par d&eacute;faut)"
+
+#: ../include/librairies/options.class.php:41
+msgid "Informations pour les logs des sauvegardes (Obligatoires)"
+msgstr "Informations pour les logs des sauvegardes (Obligatoires)"
+
+#: ../include/librairies/options.class.php:43
+msgid "Dossier de destination des logs"
+msgstr "Dossier de destination des logs"
+
+#: ../include/librairies/options.class.php:44
+msgid "Emails pour les rapports"
+msgstr "Emails pour les rapports"
+
+#: ../include/librairies/options.class.php:46
+msgid "Domaines &agrave; exclure de la liste des sauvegardes"
+msgstr "Domaines &agrave; exclure de la liste des sauvegardes"
+
+#: ../include/librairies/options.class.php:48
+msgid "Domaine &agrave; ne pas sauvegarder"
+msgstr "Domaine &agrave; ne pas sauvegarder"
+
+#: ../include/librairies/options.class.php:50
+msgid "Informations pour les tests de restauration des sauvegardes"
+msgstr "Informations pour les tests de restauration des sauvegardes"
+
+#: ../include/librairies/options.class.php:52
+msgid "Nom du sous domaine de restauration"
+msgstr "Nom du sous domaine de restauration"
+
+#: ../include/librairies/options.class.php:53
+msgid "Nom de la base de donn&eacute;es de restauration"
+msgstr "Nom de la base de donn&eacute;es de restauration"
+
+#: ../include/librairies/options.class.php:54
+msgid "Nom de l'utilisateur de la base de donn&eacute;es de restauration"
+msgstr "Nom de l'utilisateur de la base de donn&eacute;es de restauration"
+
+#: ../include/librairies/options.class.php:55
+msgid "Mot de passe de l'utilisateur de la base de donn&eacute;es de restauration"
+msgstr "Mot de passe de l'utilisateur de la base de donn&eacute;es de restauration"
+
+#: ../include/librairies/options.class.php:57
+msgid "R&eacute;glages par d&eacute;faut pour la configuration des sauvegardes"
+msgstr "R&eacute;glages par d&eacute;faut pour la configuration des sauvegardes"
+
+#: ../include/librairies/options.class.php:59
+msgid "Nombre de Sauvegardes &agrave; conserver"
+msgstr "Nombre de Sauvegardes &agrave; conserver"
+
+#: ../include/librairies/options.class.php:61
+msgid "R&eacute;glages divers"
+msgstr "R&eacute;glages divers"
+
+#: ../include/librairies/options.class.php:63
+msgid "Nombre d'&eacute;l&eacute;ments &agrave; afficher par page"
+msgstr "Nombre d'&eacute;l&eacute;ments &agrave; afficher par page"
+
+#: ../include/librairies/options.class.php:64
+msgid "Inclure les domaines mod&eacute;r&eacute;s dans les mails d'alerte de configuration"
+msgstr "Inclure les domaines mod&eacute;r&eacute;s dans les mails d'alerte de configuration"
+
+#: ../include/librairies/options.class.php:65
+msgid "V&eacute;rifier les domaines non configur&eacute;s lors de la sauvegarde g&eacute;n&eacute;rale"
+msgstr "V&eacute;rifier les domaines non configur&eacute;s lors de la sauvegarde g&eacute;n&eacute;rale"
+
+#: ../include/librairies/options.class.php:66
+msgid "Autoriser les sauvegardes multiples pour un domaine dans la m&ecirc;me journ&eacute;e"
+msgstr "Autoriser les sauvegardes multiples pour un domaine dans la m&ecirc;me journ&eacute;e"
+
+#: ../include/librairies/options.class.php:67
+msgid "Enregistrer le r&eacute;sultat des commandes shell lanc&eacute;es par php"
+msgstr "Enregistrer le r&eacute;sultat des commandes shell lanc&eacute;es par php"
+
+#: ../include/librairies/options.class.php:68
+msgid "Liste des adresses IP autoris&eacute;es &agrave; lancer le script (Pour les tests)"
+msgstr "Liste des adresses IP autoris&eacute;es &agrave; lancer le script (Pour les tests)"
+
+#: ../include/librairies/options.class.php:141
+msgid "R&eacute;glages pour la gestion des sauvegardes"
+msgstr "R&eacute;glages pour la gestion des sauvegardes"
+
+#: ../include/librairies/options.class.php:143
+msgid "Chargement en cours..."
+msgstr "Chargement en cours..."
+
+#: ../include/librairies/options.class.php:333
+msgid "Utiliser la liste par d&eacute;faut"
+msgstr "Utiliser la liste par d&eacute;faut"
+
+#: ../include/librairies/options.class.php:333
+msgid "Ins&eacute;rer les domaines par d&eacute;fault dans la liste des exclusions"
+msgstr "Ins&eacute;rer les domaines par d&eacute;fault dans la liste des exclusions"
+
+#: ../include/librairies/options.class.php:337
+msgid "Ajouter ce domaine dans la liste des exclusions"
+msgstr "Ajouter ce domaine dans la liste des exclusions"
+
+#: ../include/librairies/options.class.php:339
+msgid "Liste des domaines exclus automatiquement des sauvegardes"
+msgstr "Liste des domaines exclus automatiquement des sauvegardes"
+
+#: ../include/librairies/options.class.php:354
+#, php-format
+msgid "Les dossiers %s sont interdits"
+msgstr "Les dossiers %s sont interdits"
+
+#: ../include/librairies/options.class.php:365
+msgid "Si ce dossier n'existe pas sur le serveur vous devrez le cr&eacute;er et envoyer les fichiers *.sh que vous aurez t&eacute;l&eacute;charg&eacute; apr&egrave;s avoir termin&eacute; la configuration"
+msgstr "Si ce dossier n'existe pas sur le serveur vous devrez le cr&eacute;er et envoyer les fichiers *.sh que vous aurez t&eacute;l&eacute;charg&eacute; apr&egrave;s avoir termin&eacute; la configuration"
+
+#: ../include/librairies/options.class.php:383
+msgid "Commande de la t&acirc;che cron pour lancer les sauvegardes"
+msgstr "Commande de la t&acirc;che cron pour lancer les sauvegardes"
+
+#: ../include/librairies/options.class.php:467
+#: ../include/librairies/options.class.php:476
+msgid "Ne plus envoyer &agrave; cet email"
+msgstr "Ne plus envoyer &agrave; cet email"
+
+#: ../include/librairies/options.class.php:484
+#: ../include/librairies/options.class.php:515
+msgid "Ajouter cet email &agrave; la liste"
+msgstr "Ajouter cet email &agrave; la liste"
+
+#: ../include/librairies/options.class.php:486
+msgid "Liste des emails recevant un rapport apr&eacute;s les sauvegardes"
+msgstr "Liste des emails recevant un rapport apr&eacute;s les sauvegardes"
+
+#: ../include/librairies/options.class.php:506
+msgid "Ne plus autoriser cette adresse IP"
+msgstr "Ne plus autoriser cette adresse IP"
+
+#: ../include/librairies/options.class.php:517
+msgid "Liste des adresse IP autoris&eacute;es &agrave; lancer la sauvegarde (Lors des tests)"
+msgstr "Liste des adresse IP autoris&eacute;es &agrave; lancer la sauvegarde (Lors des tests)"
+
+#: ../include/librairies/db/db.class.php:234
+#, php-format
+msgid "Derni&egrave;re mise &agrave; jour le %s"
+msgstr "Derni&egrave;re mise &agrave; jour le %s"
+
+#: ../include/librairies/db/db.class.php:235
+#, php-format
+msgid "Version th&eacute;orique %s"
+msgstr "Version th&eacute;orique %s"
+
+#: ../include/librairies/db/db.class.php:236
+#, php-format
+msgid "Version courante %s"
+msgstr "Version courante %s"
+
+#: ../include/librairies/db/db.class.php:263
+msgid "Table inexistante"
+msgstr "Table inexistante"
+
+#: ../include/librairies/db/db.class.php:263
+msgid "Tables inexistantes"
+msgstr "Tables inexistantes"
+
+#: ../include/librairies/db/db.class.php:269
+#: ../include/librairies/db/db.class.php:287
+#: ../include/librairies/db/db.class.php:351
+#: ../include/librairies/db/db.class.php:372
+#: ../include/librairies/db/db.class.php:393
+msgid "Version"
+msgstr "Version"
+
+#: ../include/librairies/db/db.class.php:274
+msgid "Corriger"
+msgstr "Corriger"
+
+#: ../include/librairies/db/db.class.php:285
+msgid "Table existante"
+msgstr "Table existante"
+
+#: ../include/librairies/db/db.class.php:285
+msgid "Tables existantes"
+msgstr "Tables existantes"
+
+#: ../include/librairies/db/db.class.php:346
+msgid "Table renom&eacute;e"
+msgstr "Table renom&eacute;e"
+
+#: ../include/librairies/db/db.class.php:346
+msgid "Tables renom&eacute;e"
+msgstr "Tables renom&eacute;e"
+
+#: ../include/librairies/db/db.class.php:367
+#: ../include/librairies/db/db.class.php:388
+msgid "Table renom&eacute;e puis supprim&eacute;es"
+msgstr "Table renom&eacute;e puis supprim&eacute;es"
+
+#: ../include/librairies/db/db.class.php:367
+#: ../include/librairies/db/db.class.php:388
+msgid "Tables renom&eacute;e puis supprim&eacute;es"
+msgstr "Tables renom&eacute;e puis supprim&eacute;es"
+
+#: ../include/templates/eobackup_launch.php:43
+#: ../include/templates/eobackup_launch.php:171
+#: ../include/templates/eobackup_log.php:41
+#: ../include/templates/eobackup_log.php:137
+#, php-format
+msgid "une erreur est survenue lors du lancement du script de sauvegarde sur le serveur %s"
+msgstr "une erreur est survenue lors du lancement du script de sauvegarde sur le serveur %s"
+
+#: ../include/templates/eobackup_launch.php:45
+msgid "Des param&egrave;tres sont manquants pour effectuer la sauvegarde, merci de vous connecter &agrave; l'interface d'administration pour corriger ce probl&egrave;me"
+msgstr "Des param&egrave;tres sont manquants pour effectuer la sauvegarde, merci de vous connecter &agrave; l'interface d'administration pour corriger ce probl&egrave;me"
+
+#: ../include/templates/eobackup_launch.php:147
+msgid "Aucune sauvegarde n'a &eacute;t&eacute configur&eacute;e pour cette session de sauvegarde"
+msgstr "Aucune sauvegarde n'a &eacute;t&eacute configur&eacute;e pour cette session de sauvegarde"
+
+#: ../include/templates/eobackup_launch.php:173
+#: ../include/templates/eobackup_log.php:139
+msgid "Erreur : mauvaise IP"
+msgstr "Erreur : mauvaise IP"
+
+#: ../include/templates/eobackup_log.php:43
+msgid "Des param&egrave;tres sont manquants pour effectuer la sauvegarde (log), merci de vous connecter &agrave; l'interface d'administration pour corriger ce probl&egrave;me"
+msgstr "Des param&egrave;tres sont manquants pour effectuer la sauvegarde (log), merci de vous connecter &agrave; l'interface d'administration pour corriger ce probl&egrave;me"
+
+#: ../languages/single_dynamic.php:12
+msgid "backup_interval_simple_type_dayly"
+msgstr "Tous les jours"
+
+#: ../languages/single_dynamic.php:13
+msgid "backup_interval_simple_type_weekly"
+msgstr "Toutes les semaines"
+
+#: ../languages/single_dynamic.php:14
+msgid "backup_interval_simple_type_monthly"
+msgstr "Tous les mois"
+
+#: ../languages/single_dynamic.php:15
+msgid "backup_interval_simple_type_yearly"
+msgstr "Tous les ans"
+
+#: ../languages/single_dynamic.php:17
+msgid "day"
+msgstr "jour"
+
+#: ../languages/single_dynamic.php:18
+msgid "week"
+msgstr "semaine"
+
+#: ../languages/single_dynamic.php:19
+msgid "month"
+msgstr "mois"
+
+#: ../languages/single_dynamic.php:20
+msgid "year"
+msgstr "ann&eacute;e"
+
+#: ../languages/single_dynamic.php:22
+msgid "valid"
+msgstr "Valide"
+
+#: ../languages/single_dynamic.php:23
+msgid "moderated"
+msgstr "Mod&eacute;r&eacute;e"
+
+#: ../languages/single_dynamic.php:24
+msgid "deleted"
+msgstr "Supprim&eacute;e"
+
+#~ msgid "H&ocirc;te de la base de donn&eacute;es de restauration"
+#~ msgstr "H&ocirc;te de la base de donn&eacute;es de restauration"
+
+#~ msgid "%s Commande de suppression de la base de donn&eacute;es %s"
+#~ msgstr "%s Commande de suppression de la base de donn&eacute;es %s"
+
+#~ msgid "La restauration semble &ecirc;tre correcte"
+#~ msgstr "La restauration semble &ecirc;tre correcte"
+
+#~ msgid "Logs la sauvegarde"
+#~ msgstr "Logs la sauvegarde"
+
+#~ msgid ""
+#~ "Charge avant la sauvegarde. Derni&egrave;re minute: %s, 5 derni&egrave;"
+#~ "res minutes: %s, 15 derni&egrave;res minutes: %s"
+#~ msgstr ""
+#~ "Charge avant la sauvegarde. Derni&egrave;re minute: %s, 5 derni&egrave;"
+#~ "res minutes: %s, 15 derni&egrave;res minutes: %s"
+
+#~ msgid ""
+#~ "Charge apr&egrave;s la sauvegarde. Derni&egrave;re minute: %s, 5 "
+#~ "derni&egrave;res minutes: %s, 15 derni&egrave;res minutes: %s"
+#~ msgstr ""
+#~ "Charge apr&egrave;s la sauvegarde. Derni&egrave;re minute: %s, 5 "
+#~ "derni&egrave;res minutes: %s, 15 derni&egrave;res minutes: %s"
+
+#~ msgid "R&eacute;sum&eacute; de la sauvegarde du jour"
+#~ msgstr "R&eacute;sum&eacute; de la sauvegarde du jour"
+
+#~ msgid "Date de d&eacute;but"
+#~ msgstr "Date de d&eacute;but"
+
+#~ msgid "Date de fin"
+#~ msgstr "Date de fin"
+
+#~ msgid "Num&eacute;ro de version du script de backup"
+#~ msgstr "Num&eacute;ro de version du script de backup"
+
+#~ msgid ""
+#~ "Nom de l'utilisateur g&eacute;rant les sauvegardes (d&eacute;fini dans "
+#~ "ovhm)"
+#~ msgstr ""
+#~ "Nom de l'utilisateur g&eacute;rant les sauvegardes (d&eacute;fini dans "
+#~ "ovhm)"
+
+#~ msgid "Nom de l'utilisateur en lecture seule sur mysql"
+#~ msgstr "Nom de l'utilisateur en lecture seule sur mysql"
+
+#~ msgid "Mot de passe de l'utilisateur en lecture seule sur mysql"
+#~ msgstr "Mot de passe de l'utilisateur en lecture seule sur mysql"
+
+#~ msgid ""
+#~ "Chemin vers le fichier contenant la liste des domaines &agrave; "
+#~ "sauvegarder"
+#~ msgstr ""
+#~ "Chemin vers le fichier contenant la liste des domaines &agrave; "
+#~ "sauvegarder"
+
+#~ msgid "Dossier de destination des logs pour chaque domaine"
+#~ msgstr "Dossier de destination des logs pour chaque domaine"
+
+#~ msgid "nom_domaine"
+#~ msgstr "nom_domaine"
+
+#~ msgid ""
+#~ "Les r&eacute;glages ci-dessous sont obligatoires. Vous ne pourrez pas "
+#~ "continuer &agrave; utiliser le plugin si un des param&egrave;tre est "
+#~ "manquant"
+#~ msgstr ""
+#~ "Les r&eacute;glages ci-dessous sont obligatoires. Vous ne pourrez pas "
+#~ "continuer &agrave; utiliser le plugin si un des param&egrave;tre est "
+#~ "manquant"
+
+#~ msgid "Sauvegarde fichiers : %s<br/>Sauvegarde db : %s"
+#~ msgstr "Sauvegarde fichiers : %s<br/>Sauvegarde db : %s"
+
+#~ msgid "Taille dossier dump : %s"
+#~ msgstr "Taille dossier dump : %s"
+
+#~ msgid "Taille dossier script : %s"
+#~ msgstr "Taille dossier script : %s"
+
+#~ msgid "Dump mysql + Rsync"
+#~ msgstr "Dump mysql + Rsync"
+
+#~ msgid "Aucune"
+#~ msgstr "Aucune"
+
+#~ msgid "&Agrave; partir de"
+#~ msgstr "&Agrave; partir de"
+
+#~ msgid "Avanc&eacute;e"
+#~ msgstr "Avanc&eacute;e"

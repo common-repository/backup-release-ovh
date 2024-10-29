@@ -1,0 +1,116 @@
+.eobackup_hide{	display:none;	}
+.eobackup_page_message{	width:40%; margin:12px auto !important; padding:9px !important; text-align:center;	}
+.eobu_strong{	font-weight:bold;	}
+
+.eobu_message{	width:60%; margin:0px auto !important; text-align:center !important; padding:6px 0px !important;	}
+.eobu_table_no_border th, .eobu_table_no_border td{	border:0px solid black;	}
+
+.propulsed_icon{	width:25px; vertical-align:middle;	}
+
+.value_is_good{	background:url(../medias/jquery_pics/ui-icons_66cc33_256x240.png) !important; background-position: -64px -144px !important; margin:4px; }
+.value_is_not_good{	background:url(../medias/jquery_pics/ui-icons_cd0a0a_256x240.png) !important; background-position: 0px -144px !important; margin:4px; }
+
+#eobu_options_others fieldset{	border:1px solid #D0D0D0 !important; width:50% !important; padding:9px; clear:both;	}
+#allowed_ip_address_list input, #new_allowed_ip_address{	width:15% !important; }
+
+#option_form h3{	background-color:#C0C0C0; padding:9px;	}
+#eobu_options_restoration .form-table th{	width:25% !important;	}
+.add_new_ip_address, .delete_allowed_ip_address{	vertical-align:middle; cursor:pointer;	}
+
+#eobu_options_domain .form-table th{	width:25% !important;	}
+#eobu_options_domain fieldset{	border:1px solid #D0D0D0 !important; width:50% !important; padding:9px;	}
+#eobu_options_default .form-table th{	width:25% !important;	}
+#eobu_options_others .form-table th{	width:25% !important;	}
+#eobu_options_main .form-table th, #eobu_options_backup .form-table th, #eobu_options_backup_log .form-table th{	width:25% !important;	color:red; }
+#eobu_options_backup_log .form-table input, #eobu_options_backup .form-table input, #eobu_options_main .form-table input, #eobu_options_restoration .form-table input, #eobu_options_default .form-table input, #eobu_options_others .form-table input{	width:40%; }
+#eobu_options_others .form-table select{	width:30% !important; }
+.add_new_domain_to_exclude, .delete_domain_to_exclude{	vertical-align:middle; cursor:pointer;	}
+.add_new_email_report, .delete_email_report{	vertical-align:middle; cursor:pointer;	}
+.add_default_domain_to_exclude{	vertical-align:middle; cursor:pointer;	}
+#eobu_options_backup_log fieldset{	border:1px solid #D0D0D0 !important; width:50% !important; padding:9px; clear:both;	}
+
+
+.open_details{	background:url(../medias/jquery_pics/ui-icons_454545_256x240.png) !important; background-position: -32px -128px !important; float:left; cursor:pointer;	}
+.close_details{	background:url(../medias/jquery_pics/ui-icons_454545_256x240.png) !important; background-position: -64px -128px !important; float:left; cursor:pointer;	}
+
+.excluded_domain_from_configuration{	background-color:#996600;	}
+.excluded_domain{	color:orange !important; font-weight:bold;	}
+.moderated_domain{	color:red !important; font-weight:bold;	}
+.domain_to_save{	color:#99CC33 !important; font-weight:bold;	}
+.domain_not_configure{	color:#999900 !important; text-align:center !important; font-weight:bold;	}
+
+.eobu_domain_label_column{	width:10%;	}
+.eobu_save_domain_label_column{	width:5%; text-align:center !important;	}
+.save_domain_label_cell{	text-align:center;	}
+.eobu_domain_cell img{	cursor:pointer;	}
+
+#domain_detail_element{	padding:0px !important;	}
+#domain_backup_history{	padding:0px !important;	}
+.domain_backup_log{	overflow-y:auto !important; height:79px !important; cursor:pointer;	}
+#domain_details_dialog img{	margin:15% 0px 15% 45%;	}	}
+
+.eobackup_dashboard_title{	border:1px solid red !important; margin:32px 0px 0px !important;	}
+
+.backup_pagination{	float:right; margin:6px;	}
+.backup_pagination span{	cursor:pointer; padding:3px;	}
+.backup_pagination span:hover{	text-decoration:underline;	}
+.backup_pagination span.current{	font-weight:bold; background-color:#C0C0C0; text-decoration:none !important;	}
+
+.general_backup_pagination{	float:right; margin:6px;	}
+.general_backup_pagination span{	cursor:pointer; padding:3px;	}
+.general_backup_pagination span:hover{	text-decoration:underline;	}
+.general_backup_pagination span.current{	font-weight:bold; background-color:#C0C0C0; text-decoration:none !important;	}
+
+.eobu_domain_details_td{	padding:0px 0px 24px 0px !important;	}
+.eobu_domain_column, .eobu_domain_backup_name_column{	width:5%;	}
+.eobu_general_backup_date_column{	width:15%;	}
+.eobu_backup_log_cell div{	height:130px; border:1px solid #C0C0C0; overflow-y: auto !important;	}
+.eobu_domain_list_cell div{	height:130px; border:1px solid #C0C0C0; width:95%; margin:0px auto; overflow-y: auto !important;	}
+
+.eobu_domain_backup_file_status_init_cell, .eobu_domain_backup_db_status_init_cell{ background-color:#FFFF00 !important; }
+.eobu_domain_backup_file_status_erreur_dossier_cell, .eobu_domain_backup_db_status_erreur_dossier_cell{ background-color:#FF0000 !important; }
+.eobu_domain_backup_file_status_ok_cell, .eobu_domain_backup_db_status_ok_cell{ background-color:#90EE90 !important; }
+.eobu_domain_backup_unexisting_dir_cell{ background-color:#FF6347 !important; }
+.eobu_domain_backup_already_existing_dir_cell{  vertical-align:middle !important; color:#B22222 !important; font-weight:bold !important; }
+.eobu_domain_backup_deleted td{ background-color:#FF6347 !important; }
+.eobu_domain_backup_deleted_cell{	text-align: center;	vertical-align: middle !important;	}
+
+.eobu_domain_backup_file_status_cell, .eobu_domain_backup_db_status_cell{	text-align: center;	vertical-align: middle !important; border:1px solid #C0C0C0 !important;	}
+
+.eobu_domain_backup_date_column{	width:7%;	}
+.eobu_domain_backup_restoration_date_column{	width:15%;	}
+.eobu_domain_backup_file_status_column{	width:2%; text-align:center !important;	}
+.eobu_domain_backup_db_status_column{	width:4%; text-align:center !important;	}
+.eobu_domain_backup_state_column{	width:10%;	}
+.eobu_domain_backup_dir_column{	width:15%;	}
+.eobu_domain_backup_dir_cell div{		}
+.eobu_domain_backup_log_cell div{	padding:0px !important;	height:100px; /* border:1px solid #C0C0C0;  */overflow-y: auto !important;	}
+.eobu_domain_backup_action_column{	width:10%;	}
+.eobu_domain_backup_action_cell{	text-align:center; vertical-align:middle;	}
+
+
+.domain_save_button_container{	margin:6px 9px;	}
+.domain_form{	width:60%; margin:9px;	}
+.domain_entry{	clear:both;	}
+.entry_label{	width:49% !important; float:left;	}
+.entry_input{	width:49% !important; float:left;	}
+.entry_input input, .entry_input select{	width:70% !important;	}
+#domain_details_content{	padding:0px !important;	}
+#domain_details_content img{	margin:15% 0px 15% 45%;	}
+.eobu_domain_backup_restoration_user_column{	width:20%;	}
+
+#save_domain_backup_config{ margin:12px 0px;}
+
+#standard_backup{	clear:both;	}
+
+.domain_entry .domain_simple_planification_params{ margin:0px 0px 9px 9px; width:60%;	}
+.domain_advanced_planification_params{ margin:0px 0px 9px 9px; float:left; width:35%;	}
+
+.eobu_explanation{	font-style: italic; font-size:11px;	}
+
+#eobackup_plan_params{	clear:both; width:60%; margin:12px auto;	}
+
+.entry_label_list{	width:49% !important; float:left;	}
+.entry_input_list{	width:49% !important; float:left;	}
+.entry_input_list input, .entry_input_list select{	width:70% !important;	}
+.domain_entry .domain_simple_planification_params_list{ margin:0px 0px 9px 9px; width:60%;	}
